@@ -1,4 +1,4 @@
-package com.quickersilver.themeengine
+package com.neko.themeengine
 
 import androidx.annotation.ColorRes
 import androidx.annotation.StyleRes

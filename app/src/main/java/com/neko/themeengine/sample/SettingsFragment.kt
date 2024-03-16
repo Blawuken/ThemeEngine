@@ -1,4 +1,4 @@
-package com.quickersilver.themeengine.sample
+package com.neko.themeengine.sample
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,11 +6,11 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.view.isVisible
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import com.quickersilver.themeengine.ThemeChooserDialogBuilder
-import com.quickersilver.themeengine.ThemeEngine
-import com.quickersilver.themeengine.ThemeMode
-import com.quickersilver.themeengine.hasS
-import com.quickersilver.themeengine.sample.databinding.FragmentSettingsBinding
+import com.neko.themeengine.ThemeChooserDialogBuilder
+import com.neko.themeengine.ThemeEngine
+import com.neko.themeengine.ThemeMode
+import com.neko.themeengine.hasS
+import com.neko.themeengine.sample.databinding.FragmentSettingsBinding
 
 class SettingsFragment : BottomSheetDialogFragment() {
 

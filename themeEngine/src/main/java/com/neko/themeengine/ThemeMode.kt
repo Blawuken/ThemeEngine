@@ -1,4 +1,4 @@
-package com.quickersilver.themeengine
+package com.neko.themeengine
 
 object ThemeMode {
     const val AUTO = 0

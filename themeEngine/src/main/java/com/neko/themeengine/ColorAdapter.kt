@@ -1,9 +1,9 @@
-package com.quickersilver.themeengine
+package com.neko.themeengine
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.quickersilver.themeengine.databinding.ItemColorBinding
+import com.neko.themeengine.databinding.ItemColorBinding
 
 class ColorAdapter(private val colorArray: List<Int>) :
     RecyclerView.Adapter<ColorAdapter.ViewHolder>() {

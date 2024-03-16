@@ -1,4 +1,4 @@
-package com.quickersilver.themeengine
+package com.neko.themeengine
 
 import android.content.Context
 import android.content.DialogInterface.BUTTON_NEUTRAL
@@ -9,7 +9,7 @@ import androidx.annotation.StringRes
 import androidx.appcompat.app.AlertDialog
 import androidx.recyclerview.widget.GridLayoutManager
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.quickersilver.themeengine.databinding.RecyclerviewBinding
+import com.neko.themeengine.databinding.RecyclerviewBinding
 
 /**
  * Builder class to create a Theme Chooser Dialog

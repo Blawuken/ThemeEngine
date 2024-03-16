@@ -1,12 +1,12 @@
-package com.quickersilver.themeengine.sample
+package com.neko.themeengine.sample
 
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
-import com.quickersilver.themeengine.ThemeChooserDialogBuilder
-import com.quickersilver.themeengine.ThemeEngine
-import com.quickersilver.themeengine.sample.databinding.ActivityMainBinding
+import com.neko.themeengine.ThemeChooserDialogBuilder
+import com.neko.themeengine.ThemeEngine
+import com.neko.themeengine.sample.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.quickersilver.themeengine
+package com.neko.themeengine
 
 import android.content.Context
 import android.content.res.Configuration
